@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1047913209375",
+    "firebase_url": "https://worldapp-88d17.firebaseio.com",
+    "project_id": "worldapp-88d17",
+    "storage_bucket": "worldapp-88d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047913209375:android:f9409de44bbe96eb",
+        "android_client_info": {
+          "package_name": "dev.cuong.worldapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047913209375-nkua5ctfktgfkau49fu6bvtr9oan09ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.cuong.worldapp",
+            "certificate_hash": "dd800a8e8ba77d05ded60730211e8b68d355d665"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0bIkFcSq5_jdcotCgoGJOQ_CqpXqG1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047913209375-pr5um4kirbqcteap9tn53h95qkkba2on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
